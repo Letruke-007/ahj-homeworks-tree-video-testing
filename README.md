@@ -1,4 +1,3 @@
 # Credit Card Validator
 
-[![Build status](https://ci.appveyor.com/api/projects/status/eay8yft71sdq33wx?svg=true)](https://ci.appveyor.com/project/Letruke-007/ahj-homeworks-tree-video-testing)
-
+[![Build status](https://ci.appveyor.com/api/projects/status/1915orq0s2p46puk?svg=true)](https://ci.appveyor.com/project/Letruke-007/ahj-homeworks-tree-video-testing-gvtwk)
